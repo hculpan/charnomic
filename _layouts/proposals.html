@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  {% include header.html %}
+
+  <body>
+    <div class="wrapper">
+      <h2 class="center-text">Proposals</h2>
+      {% for page in site.proposals %}
+        {{ page.output }}
+      {% endfor %}
+    </div>
+  </body>
+
+  {% include footer.html %}
+</html>

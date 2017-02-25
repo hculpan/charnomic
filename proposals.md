@@ -1,0 +1,4 @@
+---
+title: Proposals
+layout: proposals
+---

@@ -17,7 +17,7 @@
 
       {% if site.posts.size > 0 %}
       <div id="rightcol">
-        <h2 class="spacing">Blog</h2>
+        <h3 class="spacing center-text">Blog</h3>
 
         <div class="blog-posts">
           {% for post in site.posts %}
@@ -25,7 +25,6 @@
               <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
               <h6>{{ post.date | date: '%B %d, %Y' }}</h6>
               <p class="summary">{{ post.category }}</p>
-              <h6>{{ post.excerpt }}</h6>
             </div>
           {% endfor %}
         </div>

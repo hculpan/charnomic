@@ -33,3 +33,4 @@ exclude:
 
 collections:
 - rules
+- proposals

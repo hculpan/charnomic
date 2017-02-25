@@ -1,15 +1,43 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+What is Nomic?
+==================
+Nomic is a game of rule-making.  Like other games, Nomic has a set of rules that
+players are expected to follow.  Unlike other games, players can change those rules.
+In fact, that's really all there is to Nomic: You propose changes to the rules,
+everyone votes on them, and you continue playing under the new set of rules.</p>
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Nomic was originally designed in 1982 by Peter Suber, a philosopher and college
+professor.  The original rule set consisted of 29 rules, some immutable and some
+mutable.  The rules described a system of assigning points to players, the conditions
+under which a player could win, and a method for changing rules or adopting new
+ones.  But no rule was immune from change; even the immutable rules could be
+transmuted to mutable and then changed.  Thus when a player got close to winning,
+the other players would simply change the rules so that he or she could not win.
+So winning became a very challenging task.  As a result games could take a long
+time to finish.</p>
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Nomic was originally played face-to-face, but as the Internet grew it naturally
+moved to online play.  The rules were adopted for online participation, and then
+a host of variant initial rule sets were developed.  Although the game has receded
+from its peak popularity, it is nonetheless still enjoyed online by many people.
+
+For more information, checkout the <a href="https://en.wikipedia.org/wiki/Nomic">Nomic Wikipedia page</a>.
+
+What is CharNomic?
+==================
+
+CharNomic is the name of a game of Nomic being played online with most of the participants
+in Charlotte, NC.  The game is being started and managed by me, Harry Culpan.
+
+Recognizing that most of the participants will be older with scarce free time, I
+have chosen to use a minimal set of initial rules, although even these are fairly
+detailed and long.  Check out the set of rules on the main page.
+
+Want to play?
+==================
+
+Just send me an email at <a href="mailto:harry@culpan.org">harry@culpan.org</a>.

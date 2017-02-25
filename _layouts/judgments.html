@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  {% include header.html %}
+
+  <body>
+    <div class="wrapper">
+      <h2 class="center-text">Judgments</h2>
+      {% for page in site.judgments %}
+        {{ page.output }}
+      {% endfor %}
+    </div>
+  </body>
+
+  {% include footer.html %}
+</html>

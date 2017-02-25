@@ -3,7 +3,7 @@ layout: rule
 title: 11
 number: 11
 ---
-The state of the game will be managed by the Game Monitor, hereafter referred to as the GM.
+The state of the game will be managed by a player called the Game Monitor, hereafter referred to as the GM.
 This individual will be responsible for preserving the current state of the Rules,
 maintaining records of any Judgments, the score of each player, and the order of turns.
 In addition, the GM will maintain any other game state information that may become
