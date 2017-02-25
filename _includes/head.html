@@ -14,9 +14,46 @@
   <link rel="alternate" type="application/rss+xml" title="CharNomic" href="/feed.xml">
 
   <style>
+  .wrapper {
+    max-width: -webkit-calc(1200px - (30px * 2));
+    max-width: calc(1200px - (30px * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+    @media screen and (max-width: 1200px) {
+      .wrapper {
+        max-width: -webkit-calc(1200px - (30px));
+        max-width: calc(1200px - (30px));
+        padding-right: 15px;
+        padding-left: 15px; } }
+
+  .rule {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+
+  .center-text {
+    text-align: center;
+  }
+
+  #leftcol {
+    float: left;
+    width: 15%;
+  }
+
+  #middlecol {
+    float: left;
+    width: 62%;
+    margin-left: 2%;
+    background-color: lightgray;
+  }
+
   #rightcol {
     float: right;
-    width: 300px;
+    width: 20%;
   }
+
   </style>
 </head>

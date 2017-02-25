@@ -6,4 +6,5 @@ categories: rule-change proposal
 ---
 A new rule will be added that says:
 
+{:.rule}
 Harry Culpan immediately wins the game!

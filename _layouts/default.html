@@ -6,9 +6,17 @@
   {% include header.html %}
 
   <body>
+    <div class="wrapper">
+      <div id="leftcol">
+        {% include players.html %}
+      </div>
+
+      <div id="middlecol">
+      {%include content.html %}
+      </div>
+
       {% if site.posts.size > 0 %}
       <div id="rightcol">
-        <aside>
         <h2 class="spacing">Blog</h2>
 
         <div class="blog-posts">
@@ -17,15 +25,15 @@
               <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
               <h6>{{ post.date | date: '%B %d, %Y' }}</h6>
               <p class="summary">{{ post.category }}</p>
-              {{ post.excerpt }}
+              <h6>{{ post.excerpt }}</h6>
             </div>
           {% endfor %}
         </div>
-      </aside>
       </div>
       {% else %}
       <p>There are no posts available right. Come back soon!</p>
       {% endif %}
+    </div>
   </body>
 
   {% include footer.html %}
