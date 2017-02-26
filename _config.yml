@@ -34,3 +34,4 @@ exclude:
 collections:
 - rules
 - proposals
+- initial_rules

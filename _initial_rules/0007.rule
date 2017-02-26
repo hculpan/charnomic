@@ -1,0 +1,8 @@
+---
+layout: rule
+title: 7
+number: 7
+---
+An adopted rule-change takes full effect immediately at the completion of the vote
+that adopted it.  New rules will be assigned the number of the proposal, and amended
+rules will have their number changed to match the proposal's number.

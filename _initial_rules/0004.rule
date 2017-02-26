@@ -1,0 +1,10 @@
+---
+layout: rule
+title: 4
+number: 4
+---
+Each player on their turn proposes one rule-change and has it voted on. Each proposal
+will be given a number, starting with 12, and each proposal shall receive the next 
+successive integer whether or not it is adopted. The player will receive a number
+of points equal to the number of the proposed rule-change multiplied by the fraction
+of votes in favor, rounding down.
