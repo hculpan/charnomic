@@ -34,4 +34,5 @@ exclude:
 collections:
 - rules
 - proposals
+- judgments
 - initial_rules
