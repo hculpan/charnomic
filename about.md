@@ -8,7 +8,7 @@ What is Nomic?
 Nomic is a game of rule-making.  Like other games, Nomic has a set of rules that
 players are expected to follow.  Unlike other games, players can change those rules.
 In fact, that's really all there is to Nomic: You propose changes to the rules,
-everyone votes on them, and you continue playing under the new set of rules.</p>
+everyone votes on them, and you continue playing under the new set of rules.
 
 Nomic was originally designed in 1982 by Peter Suber, a philosopher and college
 professor.  The original rule set consisted of 29 rules, some immutable and some
@@ -18,7 +18,7 @@ ones.  But no rule was immune from change; even the immutable rules could be
 transmuted to mutable and then changed.  Thus when a player got close to winning,
 the other players would simply change the rules so that he or she could not win.
 So winning became a very challenging task.  As a result games could take a long
-time to finish.</p>
+time to finish.
 
 Nomic was originally played face-to-face, but as the Internet grew it naturally
 moved to online play.  The rules were adopted for online participation, and then
