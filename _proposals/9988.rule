@@ -4,15 +4,15 @@ title: 12
 number: 12
 proposed-by: Harry Culpan
 date:   2017-02-25 17:00:00 -0500
-votes-in-favor: 1 (Harry)
+votes-in-favor: 4 (Harry, Al, Chris, Mike)
 votes-against: 0
 status: proposed
 ---
-Be it proposed that rule 6 will be changed to remove the text "and no votes against"
-from the first line.  The new rule shall read:
+Be it proposed that the first line of rule 6 will be changed to: "A rule-change is
+adopted if and only if the proposal receives votes in favor from a majority of players in the game."
 <br><br>
-<p>A rule-change is adopted if and only if the proposal receives a majority of votes
-in favor. Any player may choose to abstain from the vote.
+<p>A rule-change is adopted if and only if the proposal receives votes in favor from
+a majority of players in the game. Any player may choose to abstain from the vote.
 If a player fails to vote within 3 days of the vote being called, their vote will
 be assumed to be an abstention. The voting must be completed within 7 days of the
 proposal’s initial introduction or the proposal will be rejected. The proposing player
