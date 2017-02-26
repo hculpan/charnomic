@@ -30,12 +30,18 @@ For more information, checkout the <a href="https://en.wikipedia.org/wiki/Nomic"
 What is CharNomic?
 ==================
 
-CharNomic is the name of a game of Nomic being played online with most of the participants
-in Charlotte, NC.  The game is being started and managed by me, Harry Culpan.
+CharNomic is the name of a Nomic game being played online.  Even though it is being
+conducted online, most of the participants live in Charlotte, NC, thus the name.
+The game is being started and managed by me, Harry Culpan.
 
 Recognizing that most of the participants will be older with scarce free time, I
 have chosen to use a minimal set of initial rules, although even these are fairly
-detailed and long.  Check out the set of rules on the main page.
+detailed and long.  Check out the set of rules on the
+<a href="http://www.charnomic.com"/>main page.  Or if you want to see the game's
+history, you can look at the <a href="http://www.charnomic.com/initial_rules.html">
+Initial Rule Set</a> to see how the rules looked at the start, and the
+<a href="http://www.charnomic.com/proposals.html">Proposals</a> to see what
+has been proposed and passed. 
 
 Want to play?
 ==================
