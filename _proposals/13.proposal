@@ -1,0 +1,22 @@
+---
+layout: proposal
+title: 13
+number: 13
+proposed-by: Chris Duignan
+date: 2017-02-28 12:41:00 -0500
+voting-open: 
+voting-closed:
+votes-in-favor: 2 (Chris, Mike)
+votes-abstain: 0
+votes-against: 0
+status: proposed
+---
+Player on Leave - A player may take temporary leave of the game by 
+notifying the other players that they will not be playing and the 
+dates of their leave.  While the player is on leave, they will be 
+assumed to voluntarily skip all of their turns and Abstain from all 
+outstanding voting.  This is to avoid any delays in turns, voting, and 
+interactions and also to avoid any scoring penalties to the Player on Leave
+for not participating.  The Player on Leave may not vote until the first 
+new turn that begins after they have returned.  This could even be their
+own turn.

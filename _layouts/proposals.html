@@ -8,7 +8,8 @@
   <body>
     <div class="wrapper">
       <h2 class="center-text">Proposals</h2>
-      {% for page in site.proposals %}
+      {% assign sorted = (site.proposals | sort: 'number') | reverse %}
+      {% for page in sorted %}
         {{ page.output }}
       {% endfor %}
     </div>
