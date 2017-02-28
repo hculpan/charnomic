@@ -8,7 +8,7 @@ voting-open: 2017-02-27 20:00:00 -0500
 voting-closed:
 votes-in-favor: 5 (Harry, Al, Chris, Mike, Bill)
 votes-abstain: 0
-votes-against: 0
+votes-against: 1 (Steve)
 status: voting
 ---
 Be it proposed that the first line of rule 6 will be changed to: "A rule-change is
