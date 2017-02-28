@@ -4,9 +4,12 @@ title: 12
 number: 12
 proposed-by: Harry Culpan
 date:   2017-02-25 17:00:00 -0500
-votes-in-favor: 4 (Harry, Al, Chris, Mike)
+voting-open: 2017-02-27 20:00:00 -0500
+voting-closed:
+votes-in-favor: 5 (Harry, Al, Chris, Mike, Bill)
+votes-abstain: 0
 votes-against: 0
-status: proposed
+status: voting
 ---
 Be it proposed that the first line of rule 6 will be changed to: "A rule-change is
 adopted if and only if the proposal receives votes in favor from a majority of players in the game."
