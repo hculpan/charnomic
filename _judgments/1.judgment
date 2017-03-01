@@ -1,0 +1,32 @@
+---
+layout: judgment
+title: 1
+number: 1
+called-by: Steve Koehler
+called-on: 2017-02-28 18:05:00 -0500
+judged-by: Harry Culpan
+judged-on: 2017-02-28 20:42:00 -0500
+overruled: No
+---
+<h4>Invocation of Judgment</h4>
+<p class="question">I want to invoke Judgment on Harry's Points.  I don't know if he has correctly applied
+Rule 4: The player will receive a number of points equal to the number of the proposed
+rule-change multiplied by the fraction of votes in favor, rounding down.</p>
+
+<p class="question">If I understand this right, then if the two other players had voted No, then he
+would have gotten 7 points, right?  Frankly, I am just confused by this verbiage
+and want to discuss it a bit.</p>
+
+<h4>Judgment</h4>
+<p class="judgment">Rule 4 says, "The player will receive a number of points equal to the number of the
+proposed rule-change multiplied by the fraction of votes in favor, rounding down."  The intent
+of this rule is to use the ratio of the players voting in favor to the total players
+in the game, regardless of whether they participated in the voting process for the
+proposal.</p>
+
+<p class="judgment">In this case, 5 players voted in favor, 1 voted against, and 1 did not
+vote because the voting was closed by the player, but it would be assumed to be an abstention.
+So that was the ratio of 5 in favor to 7 total, which is .7143.  This is multiplied
+by the proposal number, 12, for a total on 8.5, which rounded down is 8.</p>
+
+<p class="judgment">So I judge that 8 was the proper number of points to be awarded.</p>

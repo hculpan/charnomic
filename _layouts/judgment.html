@@ -1,7 +1,7 @@
-<blockquote class="status-{{ page.status }}">{{ page.number }} - {{ content }}
+<blockquote class="status-{{ page.status }}">{{ content }}
   <hr>
-  <h4>Requested by: {{ page.requested-by }} on {{ page.requested-date | date: '%B %d, %Y %r' }}</h4>
-  <h4>Written by: {{ page.written-by }} on {{ page.written-date | date: '%B %d, %Y %r' }}</h4>
-  <h4>Status: {{ page.status }}
+  <h4>Called by: {{ page.called-by }} on {{ page.called-on | date: '%B %d, %Y %r' }}</h4>
+  <h4>Judged by: {{ page.judged-by }} on {{ page.judged-on | date: '%B %d, %Y %r' }}</h4>
+  <h4>Overruled: {{ page.overruled }}
   <hr>
 </blockquote>
