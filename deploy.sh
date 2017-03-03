@@ -1,4 +1,6 @@
-!#/bin/sh
+#!/bin/sh
+
+jekyll build
 
 pushd .
 cd _site

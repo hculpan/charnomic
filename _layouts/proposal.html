@@ -1,8 +1,44 @@
-<blockquote class="status-{{ page.status}}">{{ page.number }} - {{ content }}
+<blockquote class="status-{{ page.status }}">
+
+  {% if page.name %}
+    <div>
+    {{ page.number }} - {{ page.name }}
+    </div>
+    <div>{{ content }} </div>
+  {% else %}
+    <div>
+    {{ page.number }} - {{ content }}
+    </div>
+  {% endif %}
   <hr>
-  <h4>Proposed by: {{ page.proposed-by }} on {{ page.date | date: '%B %d, %Y %r' }}</h4>
-  <h4>Votes in favor: {{ page.votes-in-favor }}</h4>
-  <h4>Votes against: {{ page.votes-against }}</h4>
-  <h4>Status: {{ page.status }}
+  <div class="footer-col-wrapper">
+    <div class="footer-col footer-col-1">
+      <ul class="contact-list">
+        <li>Proposed by: {{ page.proposed-by }} on {{ page.date | date: '%b %d, %Y %I:%M %P' }}</li>
+        {% if page.voting-open == blank %}
+        <li>Voting opened: </li>
+        {% else %}
+        <li>Voting opened: {{ page.voting-open | date: '%b %d, %Y %I:%M %P' }}</li>
+        {% endif %}
+        {% if page.voting-closed == blank %}
+        <li>Voting closed: </li>
+        {% else %}
+        <li>Voting closed: {{ page.voting-closed | date: '%b %d, %Y %I:%M %P' }}</li>
+        {% endif %}
+        <li>Status: {{ page.status }}</li>
+      </ul>
+    </div>
+
+    <div class="footer-col footer-col-2">
+    </div>
+
+    <div class="footer-col footer-col-3">
+      <ul class="contact-list">
+        <li>Votes in favor: {{ page.votes-in-favor }}</li>
+        <li>Votes against: {{ page.votes-against }}</li>
+        <li>Abstained: {{ page.votes-abstain }}</li>
+      </ul>
+    </div>
+  </div>
   <hr>
 </blockquote>
