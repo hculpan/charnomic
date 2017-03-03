@@ -1,3 +1,12 @@
 <div class="rule">
-  {{ page.number }} - {{ content }}
+  {% if page.name %}
+    <div>
+    {{ page.number }} - {{ page.name }}
+    </div>
+    <div>{{ content }} </div>
+  {% else %}
+    <div>
+    {{ page.number }} - {{ content }}
+    </div>
+  {% endif %}
 </div>
