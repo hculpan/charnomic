@@ -1,4 +1,5 @@
   <h2 class="center-text">Rules</h2>
-  {% for page in site.rules %}
+  {% assign sorted = (site.rules | sort: 'number') %}
+  {% for page in sorted %}
     {{ page.output }}
   {% endfor %}

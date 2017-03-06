@@ -1,22 +1,19 @@
 ---
-layout: proposal
+layout: rule
 name: Player on Leave
 number: 13
 proposed-by: Chris Duignan
 date: 2017-02-28 12:41:00 -0500
 voting-open: 2017-03-02 08:47:00 -0500
-voting-closed: 2017-03-05 20:30:00 -0500
+voting-closed:
 votes-in-favor: 3 (Chris, Paul, Mike)
-votes-abstain: 2 (Harry, Al, Bill)
+votes-abstain: 2 (Harry, Al)
 votes-against: 0
-status: passed
 ---
-<p>A new rule shall be added that says:</p>
-
-<p>A player may take temporary leave of the game by notifying
+A player may take temporary leave of the game by notifying
 the other players that they will not be playing and the dates of their
 leave. During this period, they will automatically, voluntarily pass
 their turn pursuant to Rule 3 as soon as their turn commences and Abstain
 from all voting. The Player on Leave may not vote or make proposals while
 on Leave.  The Player on Leave may rejoin the game early by notifying
-the other players and then resuming play.</p>
+the other players and then resuming play.
