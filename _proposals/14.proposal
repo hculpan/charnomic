@@ -5,11 +5,11 @@ number: 14
 proposed-by: Steve Koehler
 date: 2017-03-07 09:12:00 -0500
 voting-open: 2017-03-08 06:45:00 -0500
-voting-closed:
-votes-in-favor: 4 (Steve, Paul, Harry, Chris)
-votes-abstain: 1 (Al)
-votes-against:
-status: voting
+voting-closed: 2017-03-08 12:09:00 -0500
+votes-in-favor: 5 (Steve, Paul, Harry, Chris, Bill)
+votes-abstain: 2 (Al, Mike)
+votes-against: 0
+status: passed
 ---
 <p>A new Rule shall be enacted:</p>
 

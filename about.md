@@ -47,3 +47,12 @@ Want to play?
 ==================
 
 Just send me an email at <a href="mailto:harry@culpan.org">harry@culpan.org</a>.
+
+Historical CharNomic
+====================
+
+This is actually the second time the CharNomic game has been played.  It was originally
+played back in 1998.  Two of the game's current participants, Harry Culpan and Paul Wiegand,
+played in the original game.  The game has been preserved on the 
+<a href="http://www.nomic.net/archive.html">nomic.net Dead Games Archive</a> at 
+<a href="http://www.nomic.net/deadgames/charnomic/">CharNomic</a>.
