@@ -1,0 +1,36 @@
+---
+layout: proposal
+name: Addition of Players
+number: 15
+proposed-by: Al Mele
+date: 2017-03-08 19:21:00 -0500
+voting-open: 2017-03-09 18:58:00 -0500
+voting-closed:
+votes-in-favor: 2 (Al, Paul)
+votes-abstain: 1 (Harry)
+votes-against:
+status: voting
+---
+<p>I propose the following rule-change, being the enactment of rule 15 with the following content:</p>
+
+<ol type="a">
+  <li>Any player may request permission to invite one or more specifically named persons (each
+  individually referred to as a "Potential Player") to join the game. </li>
+  <li>Current players have 24 hours to respond with an affirmative, negative, abstention or veto
+  for each Potential Player. </li>
+  <li>Current players not responding to the proposal of a Potential Player within 24 hours are
+  determined to have abstained for that Potential Player. </li>
+  <li>Permission is granted with a simple majority of "Active Responders"
+  (affirmative responders / total non-abstaining responders), and no vetos. </li>
+  <li>Each Player is allowed three lifetime vetos which may be used to forbid a new player from
+  joining the game, regardless of the voting results from other players. </li>
+  <li>Potential Players who are granted permission to join, and choose to join, start with a
+  number of points equal to the lowest non-negative point total of active players, and assume
+  their turn position pursuant to Rule 3 as of the conclusion of the turn active at the time of
+  their joining. </li>
+  <li>The inviting player ("Sponsor") earns 3 points per new player who joins under this rule and
+  makes at least one proposal.  The total maximum points over the course of the game which may be
+  awarded to a Sponsor under this rule is 15. </li>
+  <li>Players who have their turn involuntarily skipped twice consecutively are removed from the game
+  by the Game Monitor. </li>
+</ol>
