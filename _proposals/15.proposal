@@ -5,11 +5,11 @@ number: 15
 proposed-by: Al Mele
 date: 2017-03-08 19:21:00 -0500
 voting-open: 2017-03-09 18:58:00 -0500
-voting-closed:
+voting-closed: 2017-03-09 21:59:00 -0500
 votes-in-favor: 2 (Al, Paul)
 votes-abstain: 2 (Harry, Steve)
 votes-against: 1 (Chris)
-status: voting
+status: failed
 ---
 <p>I propose the following rule-change, being the enactment of rule 15 with the following content:</p>
 
