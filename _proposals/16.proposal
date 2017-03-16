@@ -1,0 +1,19 @@
+---
+layout: proposal
+name:
+number: 16
+proposed-by: Mike Thomason
+date: 2017-03-09 19:01:00 -0500
+voting-open: 2017-03-14 11:38:00 -0500
+voting-closed: 2017-03-15 21:00:00 -0500
+votes-in-favor: 4 (Mike, Al, Paul, Harr)
+votes-abstain: 1 (Steve)
+votes-against: 0
+status: passed
+---
+<p>I propose a new rule be added that states:</p>
+
+<ol type="1">
+<li>Each player is given a level starting at level 1.</li>
+<li>Each player will be given an initial account balance of 0 gold pieces.</li>
+</ol>
