@@ -1,0 +1,25 @@
+---
+layout: rule
+name: Clarifying Voting
+number: 17
+proposed-by: Paul Wiegand
+date: 2017-03-19 08:50:00 -0500
+voting-open: 2017-03-19 08:50:00 -0500
+voting-closed: 2017-03-22 08:57:00 -0500
+votes-in-favor: 4 (Mike, Al, Paul, Harry)
+votes-abstain: 1 (Steve)
+votes-against: 0
+status: passed
+---
+Players wishing to perform actions that require an election must formally and
+explicitly call for a vote on that specific action.  The time period following
+that call is referred to as the 'Voting Period', and the player initiating it is
+referred to as the 'Legislator’.  A Voting Period continues until any one of the
+following occurs: the measure is formally withdrawn by the Legislator, all
+players not on leave have cast a vote, or any calendar rules governing the
+measure are obtained.  After this, the Voting Period for that measure ends.
+Votes cast before or after the Voting Period of an action will be ignored and
+not considered for any purpose within the rules.  A player may change his vote
+within the Voting Period, but the Voting Period will not be extended solely to
+permit time for players to change their vote.  Actions that require a vote include,
+but may not be limited to, the adoption of a proposal.
