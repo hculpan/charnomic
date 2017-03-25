@@ -1,5 +1,5 @@
 ---
-layout: proposal
+layout: rule
 name: Proposals and Scoring
 number: 18
 proposed-by: Harry Culpan
@@ -11,8 +11,6 @@ votes-abstain: 0
 votes-against: 0
 status: passed
 ---
-Rule 4 will be altered to read in its entirety:
-
 Each player on their turn proposes one rule-change and has it voted on. Each new
 proposal will receive the next successive integer than the last proposal, whether
 or not it is adopted.  The player whose turn it is, hereafter referred to as
