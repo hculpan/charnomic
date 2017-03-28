@@ -1,4 +1,14 @@
 <h3 class="center-text">Players</h3>
+<script>
+$(document).ready(function () {
+    var points = [10, 18, 17, 20, 19, 19, 19];
+
+    for (i = 0; i < 7; i++) {
+      $('#p' + i).html(points[i]);
+      $('#l' + i).html(Math.floor(1.725 * Math.sqrt(points[i]) + 1));
+    }
+});
+</script>
 <table>
   <tr>
     <td width="10%" class="center-text"></td>
@@ -11,56 +21,56 @@
   <tr>
     <td class="center-text on-leave"><img src="vacation-icon.png"/></td>
     <td class="center-text on-leave">Boivin, W.</td>
-    <td class="center-text on-leave">10</td>
-    <td class="center-text on-leave">1</td>
+    <td class="center-text on-leave" id="p0"></td>
+    <td class="center-text on-leave" id="l0"></td>
     <td class="center-text on-leave">0</td>
     <td class="center-text on-leave">3</td>
   </tr>
   <tr>
     <td class="center-text"></td>
     <td class="center-text">Culpan, H.</td>
-    <td class="center-text">18</td>
-    <td class="center-text">1</td>
+    <td class="center-text" id="p1">18</td>
+    <td class="center-text" id="l1">1</td>
     <td class="center-text">0</td>
     <td class="center-text">3</td>
   </tr>
   <tr>
     <td class="center-text"></td>
     <td class="center-text">Duignan, C.</td>
-    <td class="center-text">17</td>
-    <td class="center-text">1</td>
+    <td class="center-text" id="p2">17</td>
+    <td class="center-text" id="l2">1</td>
     <td class="center-text">0</td>
     <td class="center-text">3</td>
   </tr>
   <tr>
     <td class="center-text on-leave"><img src="vacation-icon.png"/></td>
     <td class="center-text on-leave">Koehler, S.</td>
-    <td class="center-text on-leave">20</td>
-    <td class="center-text on-leave">1</td>
+    <td class="center-text on-leave" id="p3">20</td>
+    <td class="center-text on-leave" id="l3">1</td>
     <td class="center-text on-leave">0</td>
     <td class="center-text on-leave">3</td>
   </tr>
   <tr>
     <td class="center-text"></td>
     <td class="center-text">Mele, A.</td>
-    <td class="center-text">19</td>
-    <td class="center-text">1</td>
+    <td class="center-text" id="p4">19</td>
+    <td class="center-text" id="l4">1</td>
     <td class="center-text">0</td>
     <td class="center-text">3</td>
   </tr>
   <tr>
     <td class="center-text"><img src="chkmark.png"/></td>
     <td class="center-text">Thomason, M.</td>
-    <td class="center-text">19</td>
-    <td class="center-text">1</td>
+    <td class="center-text" id="p5">19</td>
+    <td class="center-text" id="l5">1</td>
     <td class="center-text">0</td>
     <td class="center-text">3</td>
   </tr>
   <tr>
     <td class="center-text"></td>
     <td class="center-text">Wiegand, P.</td>
-    <td class="center-text">19</td>
-    <td class="center-text">1</td>
+    <td class="center-text" id="p6">19</td>
+    <td class="center-text" id="l6">1</td>
     <td class="center-text">0</td>
     <td class="center-text">3</td>
   </tr>
